@@ -7,7 +7,7 @@ To have this setup, hit the `CMD + Shift + P`, type in "settings.json", choose t
 ```
     "runOnSave.commands": [
         {
-            "command": "clear; swift test | xcpretty && git commit -am working || git reset --hard",
+            "command": "clear; swift build | swift test && git commit -am working || git reset --hard",
             "runIn": "terminal"
         }
     ],
