@@ -21,7 +21,10 @@ Funny, since the `swift build` was failing, I just lost the link above and I had
 
 ## Kent Beck's Videos
 
+#### The Setup
+
 [![TCR test && commit || revert -- Rope in Python 0/3 -- Setting up ...](http://img.youtube.com/vi/tnO2Mos0RjU/0.jpg)](http://www.youtube.com/watch?v=tnO2Mos0RjU "TCR test && commit || revert -- Rope in Python 0/3 -- Setting up ...")
 
-[The Setup ](https://www.youtube.com/watch?v=tnO2Mos0RjU)</br>
-[First Video](https://www.youtube.com/watch?v=Aof0F9DvTFg)
+#### Fist Video
+
+[![TCR test && commit || revert -- Rope in Python 1/3](http://img.youtube.com/vi/Aof0F9DvTFg/0.jpg)](http://www.youtube.com/watch?v=Aof0F9DvTFg "TCR test && commit || revert -- Rope in Python 1/3")
