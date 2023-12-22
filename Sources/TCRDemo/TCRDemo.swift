@@ -6,4 +6,4 @@
 // another try
 // it does work and this comment should be formmated afterwards.
 
-1 + 2
+let someInt: Int = "23"
