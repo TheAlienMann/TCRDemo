@@ -13,4 +13,6 @@ To have this setup, hit the `CMD + Shift + P`, type in "settings.json", choose t
     ],
 ```
 
-`runOnSave` is a vscode extension, this [one]()
+`runOnSave` is a vscode extension, this [one](https://marketplace.visualstudio.com/items?itemName=pucelle.run-on-save)
+
+Funny, since the `swift build` was failing, I just lost the link above and I had to put the link there again. I think I should exclude non-swift files. 🤦‍♂️
