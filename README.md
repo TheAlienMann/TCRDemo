@@ -18,3 +18,8 @@ To have this setup, hit the `CMD + Shift + P`, type in "settings.json", choose t
 `runOnSave` is a vscode extension, this [one](https://marketplace.visualstudio.com/items?itemName=pucelle.run-on-save)
 
 Funny, since the `swift build` was failing, I just lost the link above and I had to put the link there again. I think I should exclude non-swift files. 🤦‍♂️
+
+## Kent Beck's Videos
+
+[The Setup ](https://www.youtube.com/watch?v=tnO2Mos0RjU)</br>
+[First Video](https://www.youtube.com/watch?v=Aof0F9DvTFg)
