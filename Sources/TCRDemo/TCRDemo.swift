@@ -7,3 +7,5 @@
 // it does work and this comment should be formmated afterwards.
 
 let someInt: Int = 23
+
+let someOtherInt: Int = "23"
