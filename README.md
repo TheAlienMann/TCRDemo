@@ -1,6 +1,8 @@
 # TCR Demo
 
 Kent Beck's setup is for `Python`, the following works for `Swift`.
+He also uses a Formatting tool (which I love `Black` for Python), you can set up `SwiftFormat` for Swift.</br>
+[Here]() you can find my setup for it.
 
 To have this setup, hit the `CMD + Shift + P`, type in "settings.json", choose the one that says user's settings, and the add the following to your settings.
 
